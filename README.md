@@ -1,4 +1,3 @@
-Cube Smasher
 Cube Smasher is a fast-paced arcade game where you crush cubes to earn points. Choose between Normal and Casual mode for an intense or relaxed gaming experience!
 
 Description
